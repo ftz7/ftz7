@@ -21,7 +21,7 @@ Malware is not only about viruses — companies preinstall it all the time.
 
 ##   🔍 About
 
-- 💉 @ftz7 (future7)
+- 💉 @ftz7 (futurezada7)
 - CyberSecurity Enthusiast
 - WebHacking and Osint.
 - Malware Developer.
