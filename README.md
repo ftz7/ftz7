@@ -27,30 +27,6 @@ Malware is not only about viruses — companies preinstall it all the time.
 - Malware Developer.
 - Since 2018.
 
-<h6>talking 'bout fedora...</h6>
-<pre style="font-familly: monospace">
-             .',;::::;,'.                137f@fedokey 
-         .';:cccccccccccc:;,.            ------------- 
-      .;cccccccccccccccccccccc;.         OS: Fedora Linux 41 (Workstation Edition) x 
-    .:cccccccccccccccccccccccccc:.       Host: DESKTOP
-  .;ccccccccccccc;.:dddl:.;ccccccc;.     Shell: bash 5.2.32 
- .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Resolution: 1920x1080
-.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.   WM: Hyprland 
-,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   CPU: AMD Ryzen 5 5600X (12) @ 4.600GHz
-:cccccccccccccc;MMM.;cccccccccccccccc:   GPU: NVIDIA GeForce RTX 4060 Ti
-:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   Memory: 4297MiB / 15719MiB 
-cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;   Disk (/): 13G / 232G (6%) 
-ccccc;XM0';cccc;MMM.;cccccccccccccccc'   Battery0: 78% [Charging] 
-ccccc;MMo;ccccc;MMW.;ccccccccccccccc;    Local IP: 192.168.1.140 
-ccccc;0MNc.ccc.xMMd;ccccccccccccccc;     Users: 137f
-cccccc;dNMWXXXWM0:;cccccccccccccc:,      ------------ 
-cccccccc;.:odl:.;cccccccccccccc:,.       
-:cccccccccccccccccccccccccccc:'.
-.:cccccccccccccccccccccc:;,..
-  '::cccccccccccccc::;,.
-
-[137f@fedokey] ~ › 
-</pre>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
