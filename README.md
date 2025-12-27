@@ -13,8 +13,8 @@ Malware is not only about viruses — companies preinstall it all the time.
 <p align="center">
   <br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ftz7&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftz7&layout=compact&langs_count=7&theme=tokyonight"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ftz7&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftz7&layout=compact&langs_count=7"
 </div>
 
 ###
