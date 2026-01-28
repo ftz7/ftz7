@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner_github](https://github.com/user-attachments/assets/fde74915-7406-4971-be46-35b62e64cf49)
+![banner_github](https://therecord.media/breachforums-seized-by-fbi-months-after-arrest-of-alleged-administrator-dark-web-marketplace)
 
 ## 🍭 Join me for a Quick Introduction!
 Malware is not only about viruses — companies preinstall it all the time.
